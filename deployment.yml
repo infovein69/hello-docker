@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: hellodemo
+        image: hello-docker
         ports:
         - containerPort: 8080
 ---
